@@ -5,6 +5,8 @@ las categorías son:
 * Menos de 50K USD al año
 * Más de 50K USD al año
 
+Datos disponibles en: https://archive.ics.uci.edu/dataset/20/census+income
+
 Se presentan soluciones con regresión logística, arboles de decisión y bosques aleatorios, se comparan los resultados y se selecciona el mejor modelo.
 
 El codigo fue desarrollado en Python 3.10.13 y se utilizó el entorno de desarrollo Jupyter Notebook.
